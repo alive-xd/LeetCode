@@ -359,4 +359,154 @@ Each solution is in `all_solutions.cpp`, organized by problem number with comple
 | 0348 | Design Tic-Tac-Toe | Medium | [Code](all_solutions.cpp#problem-0348) |
 | 0349 | Intersection of Two Arrays | Easy | [Code](all_solutions.cpp#problem-0349) |
 | 0350 | Intersection of Two Arrays II | Easy | [Code](all_solutions.cpp#problem-0350) |
+| 0351 | Android Unlock Patterns | Medium | [Code](all_solutions.cpp#problem-0351) |
+| 0352 | Data Stream as Disjoint Intervals | Hard | [Code](all_solutions.cpp#problem-0352) |
+| 0353 | Design Snake Game | Medium | [Code](all_solutions.cpp#problem-0353) |
+| 0354 | Russian Doll Envelopes | Hard | [Code](all_solutions.cpp#problem-0354) |
+| 0355 | Design Twitter | Medium | [Code](all_solutions.cpp#problem-0355) |
+| 0356 | Line Reflection | Medium | [Code](all_solutions.cpp#problem-0356) |
+| 0357 | Count Numbers with Unique Digits | Medium | [Code](all_solutions.cpp#problem-0357) |
+| 0358 | Rearrange String k Distance Apart | Hard | [Code](all_solutions.cpp#problem-0358) |
+| 0359 | Logger Rate Limiter | Easy | [Code](all_solutions.cpp#problem-0359) |
+| 0360 | Sort Transformed Array | Medium | [Code](all_solutions.cpp#problem-0360) |
+| 0361 | Bomb Enemy | Medium | [Code](all_solutions.cpp#problem-0361) |
+| 0362 | Design Hit Counter | Medium | [Code](all_solutions.cpp#problem-0362) |
+| 0363 | Max Sum of Rectangle No Larger Than K | Hard | [Code](all_solutions.cpp#problem-0363) |
+| 0364 | Nested List Weight Sum II | Medium | [Code](all_solutions.cpp#problem-0364) |
+| 0365 | Water and Jug Problem | Medium | [Code](all_solutions.cpp#problem-0365) |
+| 0366 | Find Leaves of Binary Tree | Medium | [Code](all_solutions.cpp#problem-0366) |
+| 0367 | Valid Perfect Square | Easy | [Code](all_solutions.cpp#problem-0367) |
+| 0368 | Largest Divisible Subset | Medium | [Code](all_solutions.cpp#problem-0368) |
+| 0369 | Plus One Linked List | Medium | [Code](all_solutions.cpp#problem-0369) |
+| 0370 | Range Addition | Medium | [Code](all_solutions.cpp#problem-0370) |
+| 0371 | Sum of Two Integers | Medium | [Code](all_solutions.cpp#problem-0371) |
+| 0372 | Super Pow | Medium | [Code](all_solutions.cpp#problem-0372) |
+| 0373 | Find K Pairs with Smallest Sums | Medium | [Code](all_solutions.cpp#problem-0373) |
+| 0374 | Guess Number Higher or Lower | Easy | [Code](all_solutions.cpp#problem-0374) |
+| 0375 | Guess Number Higher or Lower II | Medium | [Code](all_solutions.cpp#problem-0375) |
+| 0376 | Wiggle Subsequence | Medium | [Code](all_solutions.cpp#problem-0376) |
+| 0377 | Combination Sum IV | Medium | [Code](all_solutions.cpp#problem-0377) |
+| 0378 | Kth Smallest Element in a Sorted Matrix | Medium | [Code](all_solutions.cpp#problem-0378) |
+| 0379 | Design Phone Directory | Medium | [Code](all_solutions.cpp#problem-0379) |
+| 0380 | Insert Delete GetRandom O(1) | Medium | [Code](all_solutions.cpp#problem-0380) |
+| 0381 | Insert Delete GetRandom O(1) - Duplicates allowed | Hard | [Code](all_solutions.cpp#problem-0381) |
+| 0382 | Linked List Random Node | Medium | [Code](all_solutions.cpp#problem-0382) |
+| 0383 | Ransom Note | Easy | [Code](all_solutions.cpp#problem-0383) |
+| 0384 | Shuffle an Array | Medium | [Code](all_solutions.cpp#problem-0384) |
+| 0385 | Mini Parser | Medium | [Code](all_solutions.cpp#problem-0385) |
+| 0386 | Lexicographical Numbers | Medium | [Code](all_solutions.cpp#problem-0386) |
+| 0387 | First Unique Character in a String | Easy | [Code](all_solutions.cpp#problem-0387) |
+| 0388 | Longest Absolute File Path | Medium | [Code](all_solutions.cpp#problem-0388) |
+| 0389 | Find the Difference | Easy | [Code](all_solutions.cpp#problem-0389) |
+| 0390 | Elimination Game | Medium | [Code](all_solutions.cpp#problem-0390) |
+| 0391 | Perfect Rectangle | Hard | [Code](all_solutions.cpp#problem-0391) |
+| 0392 | Is Subsequence | Easy | [Code](all_solutions.cpp#problem-0392) |
+| 0393 | UTF-8 Validation | Medium | [Code](all_solutions.cpp#problem-0393) |
+| 0394 | Decode String | Medium | [Code](all_solutions.cpp#problem-0394) |
+| 0395 | Longest Substring with At Least K Repeating Characters | Medium | [Code](all_solutions.cpp#problem-0395) |
+| 0396 | Rotate Function | Medium | [Code](all_solutions.cpp#problem-0396) |
+| 0397 | Integer Replacement | Medium | [Code](all_solutions.cpp#problem-0397) |
+| 0398 | Random Pick Index | Medium | [Code](all_solutions.cpp#problem-0398) |
+| 0399 | Evaluate Division | Medium | [Code](all_solutions.cpp#problem-0399) |
+| 0400 | Nth Digit | Medium | [Code](all_solutions.cpp#problem-0400) |
+| 0401 | Binary Watch | Easy | [Code](all_solutions.cpp#problem-0401) |
+| 0402 | Remove K Digits | Medium | [Code](all_solutions.cpp#problem-0402) |
+| 0403 | Frog Jump | Hard | [Code](all_solutions.cpp#problem-0403) |
+| 0404 | Sum of Left Leaves | Easy | [Code](all_solutions.cpp#problem-0404) |
+| 0405 | Convert a Number to Hexadecimal | Easy | [Code](all_solutions.cpp#problem-0405) |
+| 0406 | Queue Reconstruction by Height | Medium | [Code](all_solutions.cpp#problem-0406) |
+| 0407 | Trapping Rain Water II | Hard | [Code](all_solutions.cpp#problem-0407) |
+| 0408 | Valid Word Abbreviation | Easy | [Code](all_solutions.cpp#problem-0408) |
+| 0409 | Longest Palindrome | Easy | [Code](all_solutions.cpp#problem-0409) |
+| 0410 | Split Array Largest Sum | Hard | [Code](all_solutions.cpp#problem-0410) |
+| 0411 | Minimum Unique Word Abbreviation | Hard | [Code](all_solutions.cpp#problem-0411) |
+| 0412 | Fizz Buzz | Easy | [Code](all_solutions.cpp#problem-0412) |
+| 0413 | Arithmetic Slices | Medium | [Code](all_solutions.cpp#problem-0413) |
+| 0414 | Third Maximum Number | Easy | [Code](all_solutions.cpp#problem-0414) |
+| 0415 | Add Strings | Easy | [Code](all_solutions.cpp#problem-0415) |
+| 0416 | Partition Equal Subset Sum | Medium | [Code](all_solutions.cpp#problem-0416) |
+| 0417 | Pacific Atlantic Water Flow | Medium | [Code](all_solutions.cpp#problem-0417) |
+| 0418 | Sentence Screen Fitting | Medium | [Code](all_solutions.cpp#problem-0418) |
+| 0419 | Battleships in a Board | Medium | [Code](all_solutions.cpp#problem-0419) |
+| 0420 | Strong Password Checker | Hard | [Code](all_solutions.cpp#problem-0420) |
+| 0421 | Maximum XOR of Two Numbers in an Array | Medium | [Code](all_solutions.cpp#problem-0421) |
+| 0422 | Valid Word Square | Easy | [Code](all_solutions.cpp#problem-0422) |
+| 0423 | Reconstruct Original Digits from English | Medium | [Code](all_solutions.cpp#problem-0423) |
+| 0424 | Longest Repeating Character Replacement | Medium | [Code](all_solutions.cpp#problem-0424) |
+| 0425 | Word Squares | Hard | [Code](all_solutions.cpp#problem-0425) |
+| 0426 | Convert Binary Search Tree to Sorted Doubly Linked List | Medium | [Code](all_solutions.cpp#problem-0426) |
+| 0427 | Construct Quad Tree | Medium | [Code](all_solutions.cpp#problem-0427) |
+| 0428 | Serialize and Deserialize N-ary Tree | Hard | [Code](all_solutions.cpp#problem-0428) |
+| 0429 | N-ary Tree Level Order Traversal | Medium | [Code](all_solutions.cpp#problem-0429) |
+| 0430 | Flatten a Multilevel Doubly Linked List | Medium | [Code](all_solutions.cpp#problem-0430) |
+| 0431 | Encode N-ary Tree to Binary Tree | Hard | [Code](all_solutions.cpp#problem-0431) |
+| 0432 | All O`one Data Structure | Hard | [Code](all_solutions.cpp#problem-0432) |
+| 0433 | Minimum Genetic Mutation | Medium | [Code](all_solutions.cpp#problem-0433) |
+| 0434 | Number of Segments in a String | Easy | [Code](all_solutions.cpp#problem-0434) |
+| 0435 | Non-overlapping Intervals | Medium | [Code](all_solutions.cpp#problem-0435) |
+| 0436 | Find Right Interval | Medium | [Code](all_solutions.cpp#problem-0436) |
+| 0437 | Path Sum III | Medium | [Code](all_solutions.cpp#problem-0437) |
+| 0438 | Find All Anagrams in a String | Medium | [Code](all_solutions.cpp#problem-0438) |
+| 0439 | Ternary Expression Parser | Medium | [Code](all_solutions.cpp#problem-0439) |
+| 0440 | K-th Smallest in Lexicographical Order | Hard | [Code](all_solutions.cpp#problem-0440) |
+| 0441 | Arranging Coins | Easy | [Code](all_solutions.cpp#problem-0441) |
+| 0442 | Find All Duplicates in an Array | Medium | [Code](all_solutions.cpp#problem-0442) |
+| 0443 | String Compression | Medium | [Code](all_solutions.cpp#problem-0443) |
+| 0444 | Sequence Reconstruction | Medium | [Code](all_solutions.cpp#problem-0444) |
+| 0445 | Add Two Numbers II | Medium | [Code](all_solutions.cpp#problem-0445) |
+| 0446 | Arithmetic Slices II - Subsequence | Hard | [Code](all_solutions.cpp#problem-0446) |
+| 0447 | Number of Boomerangs | Medium | [Code](all_solutions.cpp#problem-0447) |
+| 0448 | Find All Numbers Disappeared in an Array | Easy | [Code](all_solutions.cpp#problem-0448) |
+| 0449 | Serialize and Deserialize BST | Medium | [Code](all_solutions.cpp#problem-0449) |
+| 0450 | Delete Node in a BST | Medium | [Code](all_solutions.cpp#problem-0450) |
+| 0451 | Sort Characters By Frequency | Medium | [Code](all_solutions.cpp#problem-0451) |
+| 0452 | Minimum Number of Arrows to Burst Balloons | Medium | [Code](all_solutions.cpp#problem-0452) |
+| 0453 | Minimum Moves to Equal Array Elements | Easy | [Code](all_solutions.cpp#problem-0453) |
+| 0454 | 4Sum II | Medium | [Code](all_solutions.cpp#problem-0454) |
+| 0455 | Assign Cookies | Easy | [Code](all_solutions.cpp#problem-0455) |
+| 0456 | 132 Pattern | Medium | [Code](all_solutions.cpp#problem-0456) |
+| 0457 | Circular Array Loop | Medium | [Code](all_solutions.cpp#problem-0457) |
+| 0458 | Poor Pigs | Hard | [Code](all_solutions.cpp#problem-0458) |
+| 0459 | Repeated Substring Pattern | Easy | [Code](all_solutions.cpp#problem-0459) |
+| 0460 | LFU Cache | Hard | [Code](all_solutions.cpp#problem-0460) |
+| 0461 | Hamming Distance | Easy | [Code](all_solutions.cpp#problem-0461) |
+| 0462 | Minimum Moves to Equal Array Elements II | Medium | [Code](all_solutions.cpp#problem-0462) |
+| 0463 | Island Perimeter | Easy | [Code](all_solutions.cpp#problem-0463) |
+| 0464 | Can I Win | Medium | [Code](all_solutions.cpp#problem-0464) |
+| 0465 | Optimal Account Balancing | Hard | [Code](all_solutions.cpp#problem-0465) |
+| 0466 | Count The Repetitions | Hard | [Code](all_solutions.cpp#problem-0466) |
+| 0467 | Unique Substrings in Wraparound String | Medium | [Code](all_solutions.cpp#problem-0467) |
+| 0468 | Validate IP Address | Medium | [Code](all_solutions.cpp#problem-0468) |
+| 0469 | Convex Polygon | Medium | [Code](all_solutions.cpp#problem-0469) |
+| 0470 | Implement Rand10() Using Rand7() | Medium | [Code](all_solutions.cpp#problem-0470) |
+| 0471 | Encode String with Shortest Length | Hard | [Code](all_solutions.cpp#problem-0471) |
+| 0472 | Concatenated Words | Hard | [Code](all_solutions.cpp#problem-0472) |
+| 0473 | Matchsticks to Square | Medium | [Code](all_solutions.cpp#problem-0473) |
+| 0474 | Ones and Zeroes | Medium | [Code](all_solutions.cpp#problem-0474) |
+| 0475 | Heaters | Medium | [Code](all_solutions.cpp#problem-0475) |
+| 0476 | Number Complement | Easy | [Code](all_solutions.cpp#problem-0476) |
+| 0477 | Total Hamming Distance | Medium | [Code](all_solutions.cpp#problem-0477) |
+| 0478 | Generate Random Point in a Circle | Medium | [Code](all_solutions.cpp#problem-0478) |
+| 0479 | Largest Palindrome Product | Hard | [Code](all_solutions.cpp#problem-0479) |
+| 0480 | Sliding Window Median | Hard | [Code](all_solutions.cpp#problem-0480) |
+| 0481 | Magical String | Medium | [Code](all_solutions.cpp#problem-0481) |
+| 0482 | License Key Formatting | Easy | [Code](all_solutions.cpp#problem-0482) |
+| 0483 | Smallest Good Base | Hard | [Code](all_solutions.cpp#problem-0483) |
+| 0484 | Find Permutation | Medium | [Code](all_solutions.cpp#problem-0484) |
+| 0485 | Max Consecutive Ones | Easy | [Code](all_solutions.cpp#problem-0485) |
+| 0486 | Predict the Winner | Medium | [Code](all_solutions.cpp#problem-0486) |
+| 0487 | Max Consecutive Ones II | Medium | [Code](all_solutions.cpp#problem-0487) |
+| 0488 | Zuma Game | Hard | [Code](all_solutions.cpp#problem-0488) |
+| 0489 | Robot Room Cleaner | Hard | [Code](all_solutions.cpp#problem-0489) |
+| 0490 | The Maze | Medium | [Code](all_solutions.cpp#problem-0490) |
+| 0491 | Non-decreasing Subsequences | Medium | [Code](all_solutions.cpp#problem-0491) |
+| 0492 | Construct the Rectangle | Easy | [Code](all_solutions.cpp#problem-0492) |
+| 0493 | Reverse Pairs | Hard | [Code](all_solutions.cpp#problem-0493) |
+| 0494 | Target Sum | Medium | [Code](all_solutions.cpp#problem-0494) |
+| 0495 | Teemo Attacking | Easy | [Code](all_solutions.cpp#problem-0495) |
+| 0496 | Next Greater Element I | Easy | [Code](all_solutions.cpp#problem-0496) |
+| 0497 | Random Point in Non-overlapping Rectangles | Medium | [Code](all_solutions.cpp#problem-0497) |
+| 0498 | Diagonal Traverse | Medium | [Code](all_solutions.cpp#problem-0498) |
+| 0499 | The Maze III | Hard | [Code](all_solutions.cpp#problem-0499) |
+| 0500 | Keyboard Row | Easy | [Code](all_solutions.cpp#problem-0500) |
 
